@@ -1,0 +1,1 @@
+["^ ","~$try-times",["^ ","~:row",3,"~:col",1,"~:fixed-arities",["~#set",[2]],"~:name","^0","~:ns","~$clj-service.fault-tolerance","~:top-ns","^7"],"~$with-retries",["^ ","^1",14,"^2",1,"~:macro",true,"~:varargs-min-arity",1,"^5","^9","^6","^7","^8","^7"],"~:filename","/Users/arthurjordao/dev/colibri/src/colibri/fault_tolerance.clj"]
